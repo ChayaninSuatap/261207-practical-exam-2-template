@@ -1,5 +1,5 @@
 function App() {
-  const data = [
+  const persons = [
     {
       name: "Bob",
       gender: "male",
