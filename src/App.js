@@ -15,7 +15,7 @@ function App() {
     <div class="ml-2">
       <h3 class="title is-3">Person List</h3>
 
-      {/* Please make me a component!!! */}
+      {/* Convert me to a component! */}
       <table class="table is-bordered mb-3">
         <tbody>
           <tr>
@@ -31,7 +31,7 @@ function App() {
         </tbody>
       </table>
 
-      {/* Code me please!!! */}
+      {/* Code me please! */}
       <h3 class="title is-3">ID Counter</h3>
       <p>YOUR ID HERE</p>
       <button>-</button>
